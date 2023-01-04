@@ -1,4 +1,3 @@
 print("Ecrivez un texte à inverser:")
-txt = input("")[::-1]
-
+txt = ("Développeur Python")[::-1]
 print(txt)
